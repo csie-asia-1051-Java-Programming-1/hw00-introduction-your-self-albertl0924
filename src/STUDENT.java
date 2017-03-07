@@ -32,9 +32,9 @@ public class STUDENT
 	public void showAll() 
 	{
 		System.out.println("---------------------------------------");
-		System.out.println("Name: " +this.getName() + "");
-		System.out.println("ID: " +this.getID() + "");
-		System.out.println("Phone: " +this.getPhone() + "");
+		System.out.println("名字: " +this.getName() + "");
+		System.out.println("學號: " +this.getID() + "");
+		System.out.println("連絡電話: " +this.getPhone() + "");
 		System.out.println("---------------------------------------");
 	}
 }
